@@ -1,0 +1,7 @@
+- sections: 
+  - local: tracking_with_aim
+    title: Tracking Experiments with AIM
+  - local: tracking_with_tensorboard
+    title: Tracking Experiments with TensorBoard
+  - local: training_on_gcp
+    title: Training on Google Cloud Platform (GCP)
