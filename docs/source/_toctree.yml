@@ -1,7 +1,29 @@
-- sections: 
+- sections:
+  - local: index
+    title: Hugging Face for Production 🤗
+  title: Overview
+# - sections:
+#   - local: data_annotation
+#     title: Data Annotation
+#   title: Data Collection and Annotation
+# - sections:
+#   - local: data_preparation
+#     title: Data Processing and Preparation
+- sections:
+  - local: training_on_gcp
+    title: Training on Google Cloud Platform (GCP)
+  title: Training
+- sections:
   - local: tracking_with_aim
     title: Tracking Experiments with AIM
   - local: tracking_with_tensorboard
     title: Tracking Experiments with TensorBoard
-  - local: training_on_gcp
-    title: Training on Google Cloud Platform (GCP)
+  title: Experiment Tracking
+# - sections:
+#   - local: evaluation
+#     title: ...
+#   title: Evaluation
+# - sections:
+#   - local: deployment
+#     title: ...
+#   title: Deployment
