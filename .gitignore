@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 docs/source/*.mdx
+!docs/source/index.mdx
