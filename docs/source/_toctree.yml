@@ -23,7 +23,7 @@
 #   - local: evaluation
 #     title: ...
 #   title: Evaluation
-# - sections:
-#   - local: deployment
-#     title: ...
-#   title: Deployment
+- sections:
+  - local: inference_endpoints_image_upsampler
+    title: Deploying an Image Upsampler with 🤗 Inference Endpoints
+  title: Deployment
