@@ -10,8 +10,8 @@
 #   - local: data_preparation
 #     title: Data Processing and Preparation
 - sections:
-  - local: training_on_gcp
-    title: Training on Google Cloud Platform (GCP)
+  - local: multinode_training_accelerate_azureml
+    title: Multinode Training with Accelerate and AzureML
   title: Training
 - sections:
   - local: tracking_with_aim
